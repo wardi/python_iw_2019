@@ -99,57 +99,50 @@
      <g class="Page">
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="999" y="3199" width="7503" height="4503"/>
-        <path fill="rgb(221,221,221)" stroke="none" d="M 4750,7700 L 1000,7700 1000,3200 8500,3200 8500,7700 4750,7700 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 4750,7700 L 1000,7700 1000,3200 8500,3200 8500,7700 4750,7700 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1000" y="3200" width="7501" height="4501"/>
+        <path fill="rgb(135,209,209)" stroke="none" d="M 4750,7700 L 1000,7700 1000,3200 8500,3200 8500,7700 4750,7700 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1250" y="5622"><tspan fill="rgb(0,0,0)" stroke="none">Something bad happened</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id4">
-        <rect class="BoundingBox" stroke="none" fill="none" x="999" y="3199" width="7503" height="1003"/>
-        <path fill="rgb(238,238,238)" stroke="none" d="M 4750,4200 L 1000,4200 1000,3200 8500,3200 8500,4200 4750,4200 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 4750,4200 L 1000,4200 1000,3200 8500,3200 8500,4200 4750,4200 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1000" y="3200" width="7501" height="1001"/>
+        <path fill="rgb(188,228,229)" stroke="none" d="M 4750,4200 L 1000,4200 1000,3200 8500,3200 8500,4200 4750,4200 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4240" y="3872"><tspan fill="rgb(0,0,0)" stroke="none">Alert</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id5">
-        <rect class="BoundingBox" stroke="none" fill="none" x="4899" y="6499" width="3403" height="1003"/>
-        <path fill="rgb(238,238,238)" stroke="none" d="M 6600,7500 L 4900,7500 4900,6500 8300,6500 8300,7500 6600,7500 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 6600,7500 L 4900,7500 4900,6500 8300,6500 8300,7500 6600,7500 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="4900" y="6500" width="3401" height="1001"/>
+        <path fill="rgb(188,228,229)" stroke="none" d="M 6600,7500 L 4900,7500 4900,6500 8300,6500 8300,7500 6600,7500 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="6020" y="7172"><tspan fill="rgb(0,0,0)" stroke="none">Okay</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id6">
-        <rect class="BoundingBox" stroke="none" fill="none" x="9499" y="3199" width="7503" height="4503"/>
-        <path fill="rgb(221,221,221)" stroke="none" d="M 13250,7700 L 9500,7700 9500,3200 17000,3200 17000,7700 13250,7700 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 13250,7700 L 9500,7700 9500,3200 17000,3200 17000,7700 13250,7700 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="9500" y="3200" width="7501" height="4501"/>
+        <path fill="rgb(135,209,209)" stroke="none" d="M 13250,7700 L 9500,7700 9500,3200 17000,3200 17000,7700 13250,7700 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="9750" y="5622"><tspan fill="rgb(0,0,0)" stroke="none">Vent radioactive gas?</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id7">
-        <rect class="BoundingBox" stroke="none" fill="none" x="9499" y="3199" width="7503" height="1003"/>
-        <path fill="rgb(238,238,238)" stroke="none" d="M 13250,4200 L 9500,4200 9500,3200 17000,3200 17000,4200 13250,4200 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 13250,4200 L 9500,4200 9500,3200 17000,3200 17000,4200 13250,4200 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="9500" y="3200" width="7501" height="1001"/>
+        <path fill="rgb(188,228,229)" stroke="none" d="M 13250,4200 L 9500,4200 9500,3200 17000,3200 17000,4200 13250,4200 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="12440" y="3872"><tspan fill="rgb(0,0,0)" stroke="none">Danger</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id8">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13399" y="6499" width="3403" height="1003"/>
-        <path fill="rgb(238,238,238)" stroke="none" d="M 15100,7500 L 13400,7500 13400,6500 16800,6500 16800,7500 15100,7500 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 15100,7500 L 13400,7500 13400,6500 16800,6500 16800,7500 15100,7500 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13400" y="6500" width="3401" height="1001"/>
+        <path fill="rgb(188,228,229)" stroke="none" d="M 15100,7500 L 13400,7500 13400,6500 16800,6500 16800,7500 15100,7500 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="13743" y="7172"><tspan fill="rgb(0,0,0)" stroke="none">Yes I’m sure</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id9">
-        <rect class="BoundingBox" stroke="none" fill="none" x="9699" y="6499" width="3403" height="1003"/>
-        <path fill="rgb(238,238,238)" stroke="none" d="M 11400,7500 L 9700,7500 9700,6500 13100,6500 13100,7500 11400,7500 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 11400,7500 L 9700,7500 9700,6500 13100,6500 13100,7500 11400,7500 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="9700" y="6500" width="3401" height="1001"/>
+        <path fill="rgb(188,228,229)" stroke="none" d="M 11400,7500 L 9700,7500 9700,6500 13100,6500 13100,7500 11400,7500 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="10630" y="7172"><tspan fill="rgb(0,0,0)" stroke="none">Cancel</tspan></tspan></tspan></text>
        </g>
       </g>
